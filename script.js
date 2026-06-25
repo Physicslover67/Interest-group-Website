@@ -10,13 +10,13 @@ const navigationMap = {
   "eligbtn": "elig-website.html",
 
   // Back to Home Buttons (From sub-pages)
-  "csigToHome": "IG-info.html",
-  "bigToHome": "IG-info.html",
-  "migToHome": "IG-info.html",
-  "quantaToHome": "IG-info.html",
-  "eigToHome": "IG-info.html",
-  "heigToHome": "IG-info.html",
-  "eligToHome": "IG-info.html",
+  "csigToHome": "index.html",
+  "bigToHome": "index.html",
+  "migToHome": "index.html",
+  "quantaToHome": "index.html",
+  "eigToHome": "index.html",
+  "heigToHome": "index.html",
+  "eligToHome": "index.html",
 
   //EIG photos button
   "photosbtn": "page_2.html",
