@@ -20,7 +20,7 @@ const navigationMap = {
 
   //EIG photos button
   "photosbtn": "page_2.html",
-  "toHomeBtn": "IG-info.html",
+  "toHomeBtn": "index.html",
 };
 
 //-- A single safe loop that handles every button automatically--
